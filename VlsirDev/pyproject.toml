@@ -7,7 +7,7 @@ dependencies = [ # <= This right here is the whole point of this package!
     "coverage",
     "pytest-cov",
     "pre-commit==2.20",
-    "black==22.6",
+    "black==24.3.0",
     "flit",
     # NOTE: some debate about whether `flit` replaces these two. Not in our publishing scripts, yet. 
     "twine",
